@@ -1,0 +1,12 @@
+user-api/
+├── package.json
+├── server.js
+├── .env
+├── models/
+│   └── User.js
+├── routes/
+│   └── users.js
+├── middleware/
+│   └── validation.js
+└── config/
+    └── database.js
