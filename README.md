@@ -2,6 +2,7 @@
 A complete REST API for managing user data built with Flask and SQLAlchemy.
 
 Features
+
 ✅ Complete CRUD operations for users
 
 ✅ Password hashing with bcrypt
